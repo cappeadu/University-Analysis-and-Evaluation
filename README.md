@@ -50,7 +50,12 @@ This study employs the **Knowledge Discovery in Databases (KDD)** methodology, i
 - **Programming**: Python (Scikit-learn, SHAP, Matplotlib, Pandas, NumPy)
 - **Data Sources**: IPEDS-NCES datasets
 - **Statistical Analysis**: VIF, correlation analysis, and feature scaling
-- **Visualization**: SHAP plots and correlation matrices
+- **Visualization**: Tableau, SHAP plots and correlation matrices
+
+---
+
+## Tableau Dashboard
+Explore the interactive dashboard on [Tableau Public](https://public.tableau.com/views/UniversityPerformanceandAnalysis/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ---
 
